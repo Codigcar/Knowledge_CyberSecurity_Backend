@@ -1,0 +1,1 @@
+INSERT INTO knowledge_area(id,name,definition) VALUES (100,'Data Security','Focuses on the protection of data at rest, during processing, and intransit.This knowledge area may require the application of mathematicaland analytical algorithms.');
